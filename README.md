@@ -24,7 +24,7 @@ This Bash script provides a simple menu-driven interface for managing C program 
    chmod +x crun.sh
 
 ****************************************
-'''bash
+```bash
 git clone https://github.com/predator-rwx/crun &&
 chmod +x install.sh &&
 bash install.sh &&
@@ -37,14 +37,14 @@ bash crun.sh
 
 ##You will be presented with a menu with the following options:
 
-Run: Compile and run a C program.
-Edit code: Edit an existing C program.
-New file: Create a new file.
-Rename file: Rename an existing file.
-Delete file: Delete an existing file.
-List files: List files in the current directory.
-Copy file: Copy an existing file with a new name.
-Exit: Exit the script.
+Run: Compile and run a C program....
+Edit code: Edit an existing C program....
+New file: Create a new file....
+Rename file: Rename an existing file....
+Delete file: Delete an existing file....
+List files: List files in the current directory....
+Copy file: Copy an existing file with a new name....
+Exit: Exit the script....
 Follow the on-screen prompts to interact with the script.
 
 ## Author
