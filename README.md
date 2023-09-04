@@ -24,7 +24,6 @@ This Bash script provides a simple menu-driven interface for managing C program 
    chmod +x crun.sh && chmod +x install.sh
 
 ## Run
-./install.sh
 ./crun.sh
 
 ## You will be presented with a menu with the following options:
