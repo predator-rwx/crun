@@ -24,6 +24,7 @@ This Bash script provides a simple menu-driven interface for managing C program 
    chmod +x crun.sh
 
 ****************************************
+'''bash
 git clone https://github.com/predator-rwx/crun &&
 chmod +x install.sh &&
 bash install.sh &&
