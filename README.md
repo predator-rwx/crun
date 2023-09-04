@@ -21,21 +21,12 @@ This Bash script provides a simple menu-driven interface for managing C program 
 4. Make the script executable by running:
 
    ```bash
-   chmod +x crun.sh
-
-****************************************
-```bash
-git clone https://github.com/predator-rwx/crun &&
-chmod +x install.sh &&
-bash install.sh &&
-chmod +x crun.sh &&
-bash crun.sh
-****************************************
+   chmod +x crun.sh && chmod +x install.sh
 
 ## Run
-./script.sh
+./crun.sh
 
-##You will be presented with a menu with the following options:
+## You will be presented with a menu with the following options:
 
 Run: Compile and run a C program....
 Edit code: Edit an existing C program....
