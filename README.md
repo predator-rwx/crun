@@ -24,15 +24,14 @@ This Bash script provides a simple menu-driven interface for managing C program 
    chmod +x crun.sh
 
 ****************************************
-git clone [URL]
-chmod +x install.sh
-bash install.sh
-chmod +x crun.sh
+git clone https://github.com/predator-rwx/crun &&
+chmod +x install.sh &&
+bash install.sh &&
+chmod +x crun.sh &&
 bash crun.sh
 ****************************************
 
 ## Run
-
 ./script.sh
 
 ##You will be presented with a menu with the following options:
@@ -48,7 +47,7 @@ Exit: Exit the script.
 Follow the on-screen prompts to interact with the script.
 
 ## Author
-AASIF
+predator-rwx [AASIF]
 
 ## Contact || Feedback
 Gmail: predatorxar@gmail.com
